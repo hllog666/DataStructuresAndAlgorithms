@@ -1,0 +1,8 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8ä‡å²«0
+s
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.( ÎÕØÿÿÿÿÿ8«øû²«0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.( ÎÕØÿÿÿÿÿ8æ‡å²«0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ºçÛõ8ç‡å²«0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¬øû²«0

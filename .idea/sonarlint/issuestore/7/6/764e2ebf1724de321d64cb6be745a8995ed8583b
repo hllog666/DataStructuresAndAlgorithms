@@ -1,0 +1,28 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ²¸şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òÛõşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±â…ÿøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É•Üöúÿÿÿÿ
+a	java:S128&"LEnd this switch case with an unconditional break, return or throw statement.(şû·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖĞç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æÅ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(•üµı
+l
+java:S3457K"Q%n should be used in place of \n to produce the platform-specific line separator.(€Îş•ÿÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(€Îş•ÿÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(÷À™ÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(òôÁÛûÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¯îüõùÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(ß”µÅ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(Øùœí8™å™‘ª0
+i
+java:S1104W"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+f
+java:S1104X"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+f
+java:S1104Y"PMake next a static final constant or non-public and provide accessors if needed.(óÕÆê
+`
+java:S2259‘"IA "NullPointerException" could be thrown; "curEmployee" is nullable here.(ÍÅÓÒ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

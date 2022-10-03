@@ -1,0 +1,32 @@
+
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ð¥Ü„ùÿÿÿÿ
+k
+java:S1149&"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ
+k
+java:S1149U"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦Ìõéþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨üÍÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸˆËƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï€‹À
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”»®›
+o
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•ðéî
+K
+java:S1854J"5Remove this useless assignment to local variable "c".(ÌàäÍ
+d
+java:S3008p"NRename this field "ADD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ûàª
+i
+java:S3008q"NRename this field "SUB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²÷®ûÿÿÿÿ
+i
+java:S3008r"NRename this field "MUL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ƒ“ ûÿÿÿÿ
+d
+java:S3008s"NRename this field "DIV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¿Ûí
+P
+java:S1118o":Add a private constructor to hide the implicit public one.(¿²þÔ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(±ØÉîùÿÿÿÿ
+T
+java:S1155b">Use isEmpty() to check whether the collection is empty or not.(—öûÔ
+T
+java:S1155h">Use isEmpty() to check whether the collection is empty or not.(§Ñð§
+7
+java:S1643K"Use a StringBuilder instead.(–ßì²ùÿÿÿÿ

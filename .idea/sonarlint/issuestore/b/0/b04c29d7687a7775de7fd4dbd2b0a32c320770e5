@@ -1,0 +1,38 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èŒÓÛúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„¨Ü«ûÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+`
+java:S2674<"JCheck the return value of the "read" call to see how many bytes were read.(Êûÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+E
+java:S20939"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+;
+java:S1168´"$Return an empty map instead of null.(¥¹ï
+N	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Œ¬¼8
+p
+java:S1210„"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(àûµš
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(¿è®Î
+r	java:S127n"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌÍ×µşÿÿÿÿ
+~
+java:S1488‘"hImmediately return this expression instead of assigning it to the temporary variable "huffmanCodeBytes".(ĞÙ³T
+V
+java:S2259H"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK
+V
+java:S2259G"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ
+V
+java:S2259F"@A "NullPointerException" could be thrown; "is" is nullable here.(şÑù
+V
+java:S2259+"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ
+Y
+java:S2259‘"C"NullPointerException" will be thrown when invoking method "zip()".(ĞÙ³T
+d
+java:S2095>"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¾Ï¼Ô
+k
+java:S2095?"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(Ì‘Õüÿÿÿÿ
+j
+java:S2095!"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(½¬é®úÿÿÿÿ

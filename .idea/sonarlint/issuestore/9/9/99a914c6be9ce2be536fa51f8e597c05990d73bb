@@ -1,0 +1,14 @@
+
+[	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(ûî¼ð
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘
+Q
+java:S1854"6Remove this useless assignment to local variable "ch".(¶±â‘úÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ÃžþÈ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ù¨Þ‚øÿÿÿÿ
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(»Ì•°
+g
+java:S3457m"Q%n should be used in place of \n to produce the platform-specific line separator.(ç²ó˜
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ç²ó˜
+7
+java:S1643%"Use a StringBuilder instead.(ÕÌ¢Çýÿÿÿÿ

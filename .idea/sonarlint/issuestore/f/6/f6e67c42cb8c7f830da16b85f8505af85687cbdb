@@ -1,0 +1,17 @@
+
+g
+java:S3008"LRename this field "X" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÇÀûÿÿÿÿ
+g
+java:S3008"LRename this field "Y" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íı·Ïüÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(âÔö³8ıÍ­Í«0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıÍ­Í«0
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´ë×ß
+t
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(ı ˜¤ÿÿÿÿÿ
+†
+java:S13194"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´ë×ß
+}
+java:S1319R"bThe type of "ps" should be an interface such as "List" rather than the implementation "ArrayList".(úÅµ‚ıÿÿÿÿ
+C
+java:S1604S"(Make this anonymous inner class a lambda(®­ö şÿÿÿÿ

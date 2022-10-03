@@ -1,0 +1,15 @@
+
+k
+java:S1149s"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ó±ö÷˝ˇˇˇˇ
+Z
+java:S1854)"?Remove this useless assignment to local variable "reverseNode".(º¡∂Ê¯ˇˇˇˇ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(≈òıÁ¸ˇˇˇˇ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(˙Àª˙ˇˇˇˇ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¨Å‡∑
+K
+java:S1481)"0Remove this unused "reverseNode" local variable.(º¡∂Ê¯ˇˇˇˇ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(–€‚Ô
+S	java:S106."9Replace this use of System.out or System.err by a logger.(˛Ê£Ò˛ˇˇˇˇ
+U	java:S106z"9Replace this use of System.out or System.err by a logger.( ÿ°å8Õã ¿©0
+T
+java:S1155y">Use isEmpty() to check whether the collection is empty or not.(‰€üñ

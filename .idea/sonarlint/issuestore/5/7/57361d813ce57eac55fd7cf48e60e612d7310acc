@@ -1,0 +1,23 @@
+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ
+`	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.( ÏÛûûÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "key".(ûääüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ì°Ãüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ²ê
+N	java:S106"9Replace this use of System.out or System.err by a logger.(å·Á
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š†ƒ˜ûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¤`
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á½µ±ùÿÿÿÿ
+l
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(©ü†£şÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(©ü†£şÿÿÿÿ
+l
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒìı˜ûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒìı˜ûÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(½Å“›ûÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(¬ïğú
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(ø•Õ¡
+g
+java:S3457k"Q%n should be used in place of \n to produce the platform-specific line separator.(ê ‹ú
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(ê ‹ú

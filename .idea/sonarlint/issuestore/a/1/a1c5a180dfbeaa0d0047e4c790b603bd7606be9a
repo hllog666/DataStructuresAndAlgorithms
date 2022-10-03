@@ -1,0 +1,7 @@
+
+[	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ûî¼ğ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù¨Ş‚øÿÿÿÿ
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(»Ì•°8ú„ÃÕ©0
+n
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(ç²ó˜8ÌóÅÕ©0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ç²ó˜8ÌóÅÕ©0
